@@ -3,6 +3,7 @@
 	"author": "Andrés Leonel Siri",
 	"description": "A project to solve FreeCodeCamp's 'Managing Packages with NPM' challenges ",
 	"keywords": ["freecodecamp", "challenge", "package", "managing"],
+	"license": "X11",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

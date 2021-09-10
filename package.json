@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Andrés Leonel Siri",
+	"description": "A project to solve FreeCodeCamp's 'Managing Packages with NPM' challenges ",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

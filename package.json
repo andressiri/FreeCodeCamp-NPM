@@ -4,6 +4,7 @@
 	"description": "A project to solve FreeCodeCamp's 'Managing Packages with NPM' challenges ",
 	"keywords": ["freecodecamp", "challenge", "package", "managing"],
 	"license": "X11",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
